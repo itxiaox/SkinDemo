@@ -1,0 +1,5 @@
+include ':skinlib'
+include ':app'
+rootProject.name = "SkinDemo"
+include ':skin'
+include ':skin2'
